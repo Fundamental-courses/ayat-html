@@ -1,0 +1,19 @@
+{
+    margin: 0;
+    padding: 0;
+} 
+
+#tabel-ayat{
+    border:  1px solide rgb(93, 45, 156);
+    mar gin:  20px ;
+    margin-bottom: 80px;
+    margin-right: 22px;
+    margin-left: 22px;
+    
+    padding-top: 20px;
+    padding-right: 20px;
+    color:  rgb(250, 52, 217) ;
+    background-color: aquamarine ;
+    font-size: 25px;
+    font-family: ;
+}
